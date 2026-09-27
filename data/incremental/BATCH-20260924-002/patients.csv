@@ -1,0 +1,42 @@
+batch_id,patient_id,first_name,last_name,gender,date_of_birth,blood_group,city,state,insurance_status,chronic_condition,registration_date
+BATCH-20260924-002,PAT-0025109,Tara,Ram,Female,1931-06-21,B+,Warangal,Madhya Pradesh,Insured,Chronic Kidney Disease,2026-09-24
+BATCH-20260924-002,PAT-0025110,Yamini,Nori,Female,1933-05-15,AB-,Belgaum,Madhya Pradesh,Insured,Hypertension,2026-09-24
+BATCH-20260924-002,PAT-0025111,Gabriel,Barad,Female,2020-06-06,O-,Medininagar,Uttarakhand,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025112,Harsh,Kala,Male,1985-05-11,AB-,Mysore,Madhya Pradesh,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025113,Inaya,Sinha,Male,1974-09-11,A+,Ghaziabad,Rajasthan,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025114,Unni,Nayak,Female,1965-09-18,O+,Dehri,Punjab,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025115,Mekhala,Muni,Male,1983-03-22,A+,Sultan Pur Majra,Madhya Pradesh,Self Pay,,2026-09-24
+BATCH-20260924-002,PAT-0025116,Harita,Devi,Male,1987-06-12,B+,Bhiwandi,Rajasthan,Insured,Chronic Kidney Disease,2026-09-24
+BATCH-20260924-002,PAT-0025117,Wishi,Narayanan,Male,1951-06-19,A+,Nagercoil,Uttarakhand,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025118,Adya,Dhawan,Female,1952-05-16,AB-,Kavali,Uttar Pradesh,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025119,Madhavi,Om,Male,1992-05-03,B+,Davanagere,Haryana,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025120,Kritika,Sarraf,Female,1942-12-06,B+,Coimbatore,Haryana,Insured,Type 2 Diabetes,2026-09-24
+BATCH-20260924-002,PAT-0025121,Aadhya,Borde,Male,1957-01-11,O+,Bokaro,Punjab,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025122,Yutika,Sampath,Female,1999-01-14,O-,Dhule,Haryana,Insured,Coronary Artery Disease,2026-09-24
+BATCH-20260924-002,PAT-0025123,Nitesh,Bhasin,Female,2013-06-30,A-,Kulti,Punjab,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025124,Varenya,Koshy,Male,1979-12-06,AB+,Bidar,Haryana,Self Pay,,2026-09-24
+BATCH-20260924-002,PAT-0025125,Tara,Kala,Male,1954-03-24,B-,Agra,Uttarakhand,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025126,Neha,Bala,Female,1968-12-14,A-,Nagaon,Rajasthan,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025127,Brinda,Tandon,Male,1989-10-27,B-,Kadapa,Punjab,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025128,Karan,Keer,Female,1963-05-24,O+,Kadapa,Uttarakhand,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025129,Chatresh,Tandon,Male,1952-10-25,B+,Akola,Delhi,Self Pay,Hypertension,2026-09-24
+BATCH-20260924-002,PAT-0025130,Eta,Sampath,Female,2002-01-17,O+,Amaravati,Madhya Pradesh,Insured,Hypertension,2026-09-24
+BATCH-20260924-002,PAT-0025131,Chandani,Barman,Male,1954-04-05,AB-,Sasaram,Madhya Pradesh,Insured,Migraine,2026-09-24
+BATCH-20260924-002,PAT-0025132,Jairaj,Suresh,Female,1939-03-28,AB+,Agra,Delhi,Self Pay,Coronary Artery Disease,2026-09-24
+BATCH-20260924-002,PAT-0025133,Caleb,Soni,Male,1956-07-02,O-,Medininagar,Uttarakhand,Insured,Type 2 Diabetes,2026-09-24
+BATCH-20260924-002,PAT-0025134,Shaurya,Madan,Male,1964-06-23,O+,Munger,Madhya Pradesh,Self Pay,,2026-09-24
+BATCH-20260924-002,PAT-0025135,Shaurya,Sen,Male,1973-09-11,A-,Fatehpur,Haryana,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025136,Faras,Sagar,Female,1968-01-20,B-,Bhopal,Punjab,Insured,Chronic Kidney Disease,2026-09-24
+BATCH-20260924-002,PAT-0025137,Sachi,Dhillon,Male,1956-02-29,O+,Bhalswa Jahangir Pur,Madhya Pradesh,Self Pay,Migraine,2026-09-24
+BATCH-20260924-002,PAT-0025138,Ekavir,Kashyap,Male,2008-09-12,AB-,Sultan Pur Majra,Punjab,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025139,Yadavi,Oak,Female,1940-10-22,O-,Warangal,Delhi,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025140,Yashvi,Nayak,Male,2015-03-03,AB-,Srikakulam,Delhi,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025141,Yachana,Brar,Female,2009-08-13,O+,Pudukkottai,Rajasthan,Self Pay,,2026-09-24
+BATCH-20260924-002,PAT-0025142,Yagnesh,Sandal,Male,1942-05-21,B+,Nadiad,Haryana,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025143,Amol,Muni,Female,1997-01-23,B-,Srikakulam,Madhya Pradesh,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025144,Jairaj,Chadha,Male,2020-12-05,B-,Saharsa,Delhi,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025145,Nathaniel,Pillay,Female,1946-06-16,B-,Rampur,Punjab,Insured,Hypertension,2026-09-24
+BATCH-20260924-002,PAT-0025146,Daksha,Barad,Male,1995-12-26,B+,Jamnagar,Haryana,Insured,Type 2 Diabetes,2026-09-24
+BATCH-20260924-002,PAT-0025147,Qarin,Acharya,Male,2015-07-10,B+,Chandrapur,Uttarakhand,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025148,Dayamai,Dar,Female,1933-06-23,AB+,Erode,Uttarakhand,Insured,,2026-09-24
+BATCH-20260924-002,PAT-0025149,Hritik,Chakrabarti,Male,1984-11-04,A-,Bhilai,Haryana,Insured,,2026-09-24

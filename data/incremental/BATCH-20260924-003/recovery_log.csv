@@ -1,0 +1,2 @@
+admission_id,old_patient_id,new_patient_id,admissions,billing,claims,labs,medication_events
+ADM-00050767,PAT-0025085,PAT-0000001,1,1,0,3,2

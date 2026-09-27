@@ -1,0 +1,4 @@
+admission_type,admissions,unique_patients,average_length_of_stay,readmissions,net_revenue,readmission_rate_pct
+Elective,25996,16001,4.54,5178,1948534912.29,19.92
+Emergency,14296,10812,5.19,2852,1337762049.31,19.95
+Referral,11025,8894,4.56,2218,831275245.88,20.12

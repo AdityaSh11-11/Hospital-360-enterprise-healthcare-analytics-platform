@@ -1,0 +1,5 @@
+outcome,admissions,unique_patients,average_length_of_stay,readmissions,net_revenue,readmission_rate_pct
+Recovered,28223,16860,4.51,5516,2089301823.85,19.54
+Improved,16648,12066,4.79,3334,1367500234.07,20.03
+Transferred,4007,3703,5.07,843,357466750.82,21.04
+Deceased,2439,2287,6.18,555,303303398.74,22.76

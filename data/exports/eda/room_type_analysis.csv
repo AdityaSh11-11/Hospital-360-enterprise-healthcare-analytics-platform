@@ -1,0 +1,5 @@
+room_type,admissions,unique_patients,average_length_of_stay,readmissions,net_revenue,readmission_rate_pct
+General,14562,10936,3.94,2829,714670972.07,19.43
+Private,14426,10859,3.95,2746,972613699.92,19.04
+Semi Private,14267,10826,3.97,2762,812357415.11,19.36
+ICU,8062,6907,8.86,1911,1617930120.38,23.7

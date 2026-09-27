@@ -1,0 +1,8 @@
+display_order,section,metric,value,unit
+1,Patient Risk,High Risk Patients,2091.0,count
+2,Patient Risk,High Risk Admissions,2354.0,count
+3,Financial Risk,High Risk Bills,5323.0,count
+4,Financial Risk,High Risk Outstanding,215423701.41,currency
+5,Claims Risk,High Risk Claims,2863.0,count
+6,Claims Risk,Rejected Claim Value,273530310.13,currency
+7,Anomaly Detection,Aggregate Review Signals,23.0,count

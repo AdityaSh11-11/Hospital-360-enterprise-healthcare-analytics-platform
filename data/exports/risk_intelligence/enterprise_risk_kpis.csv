@@ -1,0 +1,11 @@
+kpi,value,unit,domain
+Admitted Patients Assessed,21694.0,count,Patient Risk
+High Risk Patients,2091.0,count,Patient Risk
+High Risk Admissions,2354.0,count,Patient Risk
+High Financial Risk Bills,5323.0,count,Financial Risk
+High Risk Bill Outstanding,215423701.41,currency,Financial Risk
+Total Recorded Outstanding,291232739.77,currency,Financial Risk
+High Risk Claims,2863.0,count,Claims Risk
+Rejected Claim Value,273530310.13,currency,Claims Risk
+High Aggregate Anomalies,11.0,count,Anomaly Detection
+Low Aggregate Anomalies,12.0,count,Anomaly Detection

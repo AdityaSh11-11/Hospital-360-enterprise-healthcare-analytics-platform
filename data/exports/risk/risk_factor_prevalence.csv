@@ -1,0 +1,8 @@
+risk_factor,triggered_admissions,total_admissions,prevalence_pct
+Chronic condition,17967,51317,35.01
+Outstanding balance,14346,51317,27.96
+Emergency admission,14296,51317,27.86
+Age > 70,12460,51317,24.28
+Readmission,10248,51317,19.97
+ICU admission,8062,51317,15.71
+LOS > 10 days,2416,51317,4.71

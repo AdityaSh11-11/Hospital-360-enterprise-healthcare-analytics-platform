@@ -1,0 +1,14 @@
+domain,kpi,value,unit
+Operations,Total Patients,25673.0,count
+Operations,Total Admissions,52697.0,count
+Operations,Average Length of Stay,4.74,days
+Operations,Readmission Rate,19.86,percent
+Finance,Net Revenue,4239684192.73,currency
+Finance,Collected Amount,1815152049.3,currency
+Finance,Outstanding Amount,300050226.81,currency
+Finance,Collection Efficiency,42.81,percent
+Finance,Outstanding Rate,7.08,percent
+Claims,Total Claims,37658.0,count
+Claims,Claim Rejection Rate,9.16,percent
+Claims,Rejected Claim Value,281972561.72,currency
+Claims,Rejected Value Rate,13.27,percent

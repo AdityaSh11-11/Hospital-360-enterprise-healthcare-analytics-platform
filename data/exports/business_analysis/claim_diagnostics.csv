@@ -1,0 +1,6 @@
+insurer_key,insurer_id,insurer_name,insurer_type,active_flag,total_claims,patients,claim_amount,approved_amount,rejected_amount,approved_claims,partially_approved_claims,rejected_claims,pending_claims,rejection_rate_pct,average_processing_days,claim_value_rank,rejected_value_rank,rejection_rate_pct_python,rejected_amount_rate_pct,claim_amount_share_pct,rejected_amount_share_pct,rejected_amount_rank
+5,INS005,LifeCare Insurance,Private,True,7576,6027,428284493.93,337335787.32,58645985.06,5148,1101,739,588,9.75,18.76,2,1,9.75,13.69,20.16,20.8,1
+2,INS002,MediShield Assurance,Private,True,7651,6095,429420773.06,333147454.35,57875506.08,5130,1117,729,675,9.53,18.94,1,2,9.53,13.48,20.21,20.53,2
+1,INS001,HealthSecure Insurance,Private,True,7483,6010,424672670.16,335046803.69,55736822.59,5081,1160,665,577,8.89,18.98,3,3,8.89,13.12,19.99,19.77,3
+3,INS003,CarePlus Health,Private,True,7451,5998,423080876.55,335269825.55,55093880.46,5099,1113,640,599,8.59,18.97,4,4,8.59,13.02,19.91,19.54,4
+4,INS004,National Health Plan,Government,True,7497,5983,419023103.51,328245855.39,54620367.53,5156,1070,675,596,9.0,18.78,5,5,9.0,13.04,19.72,19.37,5

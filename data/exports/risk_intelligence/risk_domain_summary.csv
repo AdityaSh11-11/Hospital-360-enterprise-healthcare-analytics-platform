@@ -1,0 +1,6 @@
+risk_domain,population,priority_signals,priority_rate_pct,interpretation
+Patient,21694,2091,9.64,Patients whose maximum observed admission-level analytical risk band is High.
+Admission,51317,2354,4.59,Admissions in the High analytical patient-risk band.
+Financial,51317,5323,10.37,Bills in the High analytical financial-risk band.
+Claims,36650,2863,7.81,Claims in the High analytical claim-risk band.
+Aggregate Anomalies,23,23,100.0,Statistically unusual aggregate observations crossing the configured robust-z threshold.

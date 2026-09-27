@@ -1,0 +1,4 @@
+payment_status,bills,patients,net_revenue,collected_amount,outstanding_amount,bill_share_pct,collection_efficiency_pct,outstanding_rate_pct
+Paid,37933,19220,3050799466.99,1515079451.79,0.0,71.98,49.66,0.0
+Partially Paid,11652,9122,936945618.99,300072597.51,169935791.19,22.11,32.03,18.14
+Outstanding,3112,2890,251939106.75,0.0,130114435.62,5.91,0.0,51.65

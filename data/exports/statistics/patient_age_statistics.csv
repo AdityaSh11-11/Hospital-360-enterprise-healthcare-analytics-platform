@@ -1,0 +1,2 @@
+metric,count,mean,std_dev,coefficient_of_variation_pct,minimum,p10,p25,median,p75,p90,p95,p99,maximum,skewness
+patient_age_at_admission,52195,46.53,27.21,58.47,0.0,9.0,23.0,46.0,70.0,84.0,89.0,93.0,95.0,0.0197

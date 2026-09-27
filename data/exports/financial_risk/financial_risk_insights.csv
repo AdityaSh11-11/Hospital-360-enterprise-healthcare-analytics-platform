@@ -1,0 +1,7 @@
+sequence,domain,insight
+1,Financial Exposure,"5,323 bills fall in the High analytical financial-risk band, representing 10.37% of bills and 73.97% of recorded outstanding value."
+2,Department Exposure,"General Medicine has the largest recorded department outstanding exposure at 31,185,805.63, representing 10.71% of hospital outstanding value."
+3,Insurer Exposure,"LifeCare Insurance has the largest rejected claim value at 56,462,173.54, with a rejected-value rate of 13.61%."
+4,Financial Risk Factors,"Outstanding balance is the most frequently triggered modeled financial factor, appearing in 27.96% of bills."
+5,Monthly Financial Risk,The latest billing month has a High-risk bill rate of 16.86% and an outstanding rate of 8.30%.
+6,Monthly Claim Risk,The latest claim-submission month has a High-risk claim rate of 10.12% and rejected-value rate of 14.54%.

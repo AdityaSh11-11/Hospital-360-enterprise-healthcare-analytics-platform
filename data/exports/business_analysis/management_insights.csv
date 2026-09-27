@@ -1,0 +1,9 @@
+domain,subject,period,metric_value,comparison_value,comparison_unit,observation
+Monthly Trend,admissions,2026-09-01,3513.0,207.35,MoM %,admissions changed 207.35% versus the previous month.
+Monthly Trend,net_revenue,2026-09-01,175215093.98,94.02,MoM %,net_revenue changed 94.02% versus the previous month.
+Monthly Trend,collected_amount,2026-09-01,75559715.21,89.62,MoM %,collected_amount changed 89.62% versus the previous month.
+Monthly Trend,outstanding_amount,2026-09-01,13688097.46,106.29,MoM %,outstanding_amount changed 106.29% versus the previous month.
+Department,Dermatology,,436005931.91,10.28,Hospital revenue share %,Dermatology has the highest department net revenue and represents 10.28% of hospital revenue.
+Doctor,Dr. Ijaya Zachariah,,46433490.21,109.62,Department revenue index,Dr. Ijaya Zachariah has the highest doctor net revenue; their department-relative revenue index is 109.62.
+Finance,Cardiology,,31561059.46,10.52,Outstanding share %,Cardiology has the largest department outstanding balance and represents 10.52% of department-level outstanding balances.
+Claims,LifeCare Insurance,,58645985.06,20.8,Rejected amount share %,LifeCare Insurance has the largest rejected claim amount among insurers and represents 20.80% of rejected claim value.

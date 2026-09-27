@@ -1,0 +1,20 @@
+domain,entity_type,entity_name,metric,metric_value,benchmark_value,variance,unit,review_reason
+Claims,Insurer,LifeCare Insurance,Rejected Value Rate,13.69,13.27,0.42,percentage points,Rejected claim value rate is above the insurer aggregate.
+Claims,Insurer,MediShield Assurance,Rejected Value Rate,13.48,13.27,0.21,percentage points,Rejected claim value rate is above the insurer aggregate.
+Finance,Department,Cardiology,Collection Efficiency,42.66,42.81,-0.15,percentage points,Collection efficiency is below the hospital aggregate.
+Finance,Department,Cardiology,Outstanding Rate,7.43,7.08,0.35,percentage points,Outstanding rate is above the hospital aggregate.
+Finance,Department,ENT,Outstanding Rate,7.34,7.08,0.26,percentage points,Outstanding rate is above the hospital aggregate.
+Finance,Department,General Medicine,Collection Efficiency,41.05,42.81,-1.76,percentage points,Collection efficiency is below the hospital aggregate.
+Finance,Department,General Medicine,Outstanding Rate,7.35,7.08,0.27,percentage points,Outstanding rate is above the hospital aggregate.
+Finance,Department,Gynecology,Outstanding Rate,7.18,7.08,0.1,percentage points,Outstanding rate is above the hospital aggregate.
+Finance,Department,Neurology,Outstanding Rate,7.13,7.08,0.05,percentage points,Outstanding rate is above the hospital aggregate.
+Finance,Department,Oncology,Collection Efficiency,42.48,42.81,-0.33,percentage points,Collection efficiency is below the hospital aggregate.
+Finance,Department,Orthopedics,Collection Efficiency,42.32,42.81,-0.49,percentage points,Collection efficiency is below the hospital aggregate.
+Finance,Department,Pediatrics,Outstanding Rate,7.24,7.08,0.16,percentage points,Outstanding rate is above the hospital aggregate.
+Operations,Department,Cardiology,Readmission Rate,20.54,19.86,0.68,percentage points,Readmission rate is above the hospital aggregate.
+Operations,Department,Dermatology,Readmission Rate,20.79,19.86,0.93,percentage points,Readmission rate is above the hospital aggregate.
+Operations,Department,ENT,Readmission Rate,20.21,19.86,0.35,percentage points,Readmission rate is above the hospital aggregate.
+Operations,Department,General Medicine,Readmission Rate,19.98,19.86,0.12,percentage points,Readmission rate is above the hospital aggregate.
+Operations,Department,Orthopedics,Readmission Rate,20.06,19.86,0.2,percentage points,Readmission rate is above the hospital aggregate.
+Operations,Department,Pediatrics,Readmission Rate,20.42,19.86,0.56,percentage points,Readmission rate is above the hospital aggregate.
+Receivables,Exposure Band,50K+,Outstanding Share,41.96,,,percent,This exposure band contains the largest recorded outstanding value.

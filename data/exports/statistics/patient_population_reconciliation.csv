@@ -1,0 +1,2 @@
+patients,patients_with_admissions,lifetime_admissions,total_length_of_stay_days,emergency_admissions,icu_admissions,readmissions,lifetime_net_revenue,lifetime_paid_amount,lifetime_outstanding_amount
+25673,21706,52697,249562,14761,8345,10465,4239684192.73,1815152049.3,300050226.81

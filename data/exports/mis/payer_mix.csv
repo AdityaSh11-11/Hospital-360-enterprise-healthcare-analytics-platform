@@ -1,0 +1,3 @@
+payer_group,bills,billed_patients,net_revenue,revenue_mix_pct,insurance_amount,patient_amount,collected_amount,outstanding_amount,collection_efficiency_pct,outstanding_rate_pct
+Insured,37659,15519,3033149638.57,71.54,2124481917.21,908667721.23,782860019.67,125807702.13,25.81,4.15
+Self Pay,15038,6187,1206534554.16,28.46,0.0,1206534554.16,1032292029.63,174242524.68,85.56,14.44

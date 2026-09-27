@@ -1,0 +1,11 @@
+department_name,admissions,unique_patients,average_length_of_stay,median_length_of_stay,los_std_dev,total_inpatient_days,emergency_admissions,icu_admissions,readmissions,emergency_rate_pct,icu_rate_pct,readmission_rate_pct,los_cv_pct,workload_segment
+Dermatology,5410,4708,4.77,5.0,2.81,25819,1518,840,1125,28.06,15.53,20.79,58.89,Very High Volume
+Neurology,5373,4680,4.73,5.0,2.86,25432,1483,858,1052,27.6,15.97,19.58,60.35,Very High Volume
+General Medicine,5304,4690,4.73,4.0,2.86,25100,1486,869,1060,28.02,16.38,19.98,60.46,Very High Volume
+Pediatrics,5290,4638,4.72,5.0,2.8,24956,1477,818,1080,27.92,15.46,20.42,59.42,High Volume
+Cardiology,5269,4579,4.75,5.0,2.85,25010,1469,838,1082,27.88,15.9,20.54,60.14,High Volume
+Orthopedics,5265,4571,4.75,4.0,2.9,25016,1501,877,1056,28.51,16.66,20.06,60.95,Moderate Volume
+Emergency,5250,4637,4.72,5.0,2.83,24755,1446,804,992,27.54,15.31,18.9,59.97,Moderate Volume
+ENT,5221,4626,4.73,5.0,2.84,24673,1531,799,1055,29.32,15.3,20.21,60.04,Lower Volume
+Gynecology,5173,4544,4.71,5.0,2.88,24374,1460,813,977,28.22,15.72,18.89,61.06,Lower Volume
+Oncology,5142,4530,4.75,5.0,2.87,24427,1390,829,986,27.03,16.12,19.18,60.39,Lower Volume

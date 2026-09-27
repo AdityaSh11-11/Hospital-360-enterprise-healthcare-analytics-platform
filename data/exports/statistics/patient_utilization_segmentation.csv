@@ -1,0 +1,5 @@
+python_utilization_segment,patients,admitted_patients,total_admissions,average_admissions,median_admissions,maximum_admissions,total_inpatient_days,average_inpatient_days,emergency_admissions,icu_admissions,readmissions,lifetime_net_revenue,lifetime_paid_amount,lifetime_outstanding_amount,patient_share_pct,admission_share_pct,readmission_rate_pct,emergency_rate_pct,icu_rate_pct,collection_efficiency_pct
+Lower Utilization,10558,6591,6591,0.62,1.0,1,31665,3.0,1800,1065,1344,535398610.28,227319382.18,36109179.71,41.12,12.51,20.39,27.31,16.16,42.46
+Moderate Utilization,6515,6515,13030,2.0,2.0,2,61987,9.51,3692,2084,2609,1058612851.92,455680801.77,76368697.73,25.38,24.73,20.02,28.33,15.99,43.05
+High Utilization,4487,4487,13461,3.0,3.0,3,63472,14.15,3742,2050,2665,1069643873.88,457043302.98,76764209.27,17.48,25.54,19.8,27.8,15.23,42.73
+Very High Utilization,4113,4113,19615,4.77,4.0,14,92438,22.47,5527,3146,3847,1576028856.65,675108562.37,110808140.1,16.02,37.22,19.61,28.18,16.04,42.84

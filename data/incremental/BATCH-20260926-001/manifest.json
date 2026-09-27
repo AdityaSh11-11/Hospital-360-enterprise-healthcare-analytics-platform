@@ -1,0 +1,28 @@
+{
+    "batch_id": "BATCH-20260926-001",
+    "business_date": "2026-09-26",
+    "status": "GENERATED",
+    "duration_seconds": 5.36,
+    "record_counts": {
+        "patients.csv": 81,
+        "admissions.csv": 225,
+        "billing.csv": 225,
+        "claims.csv": 161,
+        "labs.csv": 669,
+        "medication_events.csv": 758
+    },
+    "id_ranges": {
+        "patient_start": 25258,
+        "patient_end": 25338,
+        "admission_start": 51093,
+        "admission_end": 51317,
+        "bill_start": 51093,
+        "bill_end": 51317,
+        "claim_start": 36490,
+        "claim_end": 36650,
+        "lab_start": 153020,
+        "lab_end": 153688,
+        "medication_start": 178617,
+        "medication_end": 179374
+    }
+}

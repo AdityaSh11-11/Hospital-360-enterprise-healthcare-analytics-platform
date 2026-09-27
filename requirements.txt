@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+plotly
+sqlalchemy
+psycopg2-binary
+python-dotenv
+faker
+pydantic
+pydantic-settings
+pyyaml
+openpyxl
+xlsxwriter
+scikit-learn
+statsmodels
+pytest
+google-genai

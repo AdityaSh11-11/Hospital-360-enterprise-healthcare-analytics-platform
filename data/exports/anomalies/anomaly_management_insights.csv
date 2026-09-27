@@ -1,0 +1,5 @@
+sequence,domain,insight
+1,Aggregate Anomaly,"The strongest aggregate statistical anomaly is emergency_admissions for 2026-09-01 00:00:00, with a robust z-score of +57.71. This is a review signal, not evidence of an error, fraud, or misconduct."
+2,Bill Values,"4,699 bill observations are outside the 1.5×IQR range for net amount, while 9,325 are outside the range for recorded outstanding amount."
+3,Length of Stay,"2,535 admissions fall outside the 1.5×IQR range for length of stay. These observations are statistical extremes and are not automatically invalid stays."
+4,Aggregate Direction,18 aggregate observations are unusually high and 7 are unusually low under the configured robust-z threshold.

@@ -1,0 +1,2 @@
+metric,count,mean,std_dev,coefficient_of_variation_pct,minimum,p10,p25,median,p75,p90,p95,p99,maximum,skewness
+length_of_stay,52697,4.74,2.85,60.16,0.0,1.0,3.0,5.0,6.0,8.0,10.0,13.0,15.0,0.8263

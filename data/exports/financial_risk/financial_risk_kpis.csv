@@ -1,0 +1,11 @@
+kpi,value,unit
+Bills Scored,51317.0,count
+Average Financial Risk Score,15.23,score
+High Risk Bills,5323.0,count
+High Risk Bill Rate,10.37,percent
+Outstanding Exposure,291232739.77,currency
+Claims Scored,36650.0,count
+Average Claim Risk Score,9.28,score
+High Risk Claims,2863.0,count
+High Risk Claim Rate,7.81,percent
+Rejected Claim Value,273530310.13,currency

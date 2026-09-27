@@ -1,0 +1,8 @@
+chronic_condition,admissions,unique_patients,average_length_of_stay,emergency_admissions,icu_admissions,readmissions,net_revenue,readmission_rate_pct,emergency_rate_pct,icu_rate_pct
+,34190,14188,4.72,9648,5354,6761,2744741903.06,19.77,28.22,15.66
+Migraine,3262,1307,4.74,903,516,641,263316690.58,19.65,27.68,15.82
+Asthma,3173,1305,4.77,878,540,669,259920007.24,21.08,27.67,17.02
+Hypertension,3131,1258,4.76,889,524,614,252798527.07,19.61,28.39,16.74
+Coronary Artery Disease,3116,1283,4.74,887,500,617,253291118.69,19.8,28.47,16.05
+Type 2 Diabetes,3016,1210,4.76,785,459,606,240202795.84,20.09,26.03,15.22
+Chronic Kidney Disease,2809,1155,4.77,771,452,557,225413150.25,19.83,27.45,16.09

@@ -1,0 +1,57 @@
+batch_id,patient_id,first_name,last_name,gender,date_of_birth,blood_group,city,state,insurance_status,chronic_condition,registration_date
+BATCH-20260927-002,PAT-0025730,Riya,Panchal,Female,1977-12-17,O-,Bhusawal,Uttarakhand,Self Pay,,2026-09-27
+BATCH-20260927-002,PAT-0025731,Rajata,Rao,Female,1942-01-26,O-,Adoni,Punjab,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025732,Wakeeta,Aggarwal,Female,1947-09-14,O+,Motihari,Haryana,Self Pay,Coronary Artery Disease,2026-09-27
+BATCH-20260927-002,PAT-0025733,Yashoda,Ramaswamy,Female,2019-01-11,A-,Nandyal,Rajasthan,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025734,Vinaya,Sandal,Female,1965-03-12,O-,Nadiad,Madhya Pradesh,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025735,Jeevika,Kurian,Female,1990-07-07,O-,Bijapur,Rajasthan,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025736,Chaitaly,Banerjee,Male,1971-12-09,O-,Mangalore,Haryana,Self Pay,,2026-09-27
+BATCH-20260927-002,PAT-0025737,Mahika,Sangha,Male,1936-03-26,A-,Barasat,Uttar Pradesh,Insured,Asthma,2026-09-27
+BATCH-20260927-002,PAT-0025738,Madhavi,Cheema,Female,1999-08-09,A-,Bhiwani,Haryana,Self Pay,,2026-09-27
+BATCH-20260927-002,PAT-0025739,Om,Kara,Female,1974-01-15,AB-,Alappuzha,Uttar Pradesh,Insured,Asthma,2026-09-27
+BATCH-20260927-002,PAT-0025740,Lakshit,Dugal,Male,2016-11-01,O+,Serampore,Uttarakhand,Self Pay,,2026-09-27
+BATCH-20260927-002,PAT-0025741,Rachit,Jhaveri,Female,2011-02-19,B+,Sultan Pur Majra,Madhya Pradesh,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025742,Anmol,Dua,Male,2024-11-14,O-,Bharatpur,Punjab,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025743,Luke,Dass,Male,2022-08-15,A-,Karimnagar,Delhi,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025744,Chanakya,Khatri,Male,1957-12-20,AB-,Thrissur,Rajasthan,Insured,Hypertension,2026-09-27
+BATCH-20260927-002,PAT-0025745,Kalpit,Chacko,Male,1967-10-18,A+,Guwahati,Delhi,Self Pay,,2026-09-27
+BATCH-20260927-002,PAT-0025746,Advay,Magar,Male,1947-02-26,O+,Panihati,Haryana,Insured,Type 2 Diabetes,2026-09-27
+BATCH-20260927-002,PAT-0025747,Nachiket,Jain,Female,1944-09-15,O+,Saharsa,Punjab,Insured,Coronary Artery Disease,2026-09-27
+BATCH-20260927-002,PAT-0025748,Deepa,Dhar,Female,2002-12-22,B-,Ahmedabad,Madhya Pradesh,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025749,Nathan,Kapoor,Male,1972-07-19,A-,Tiruppur,Uttar Pradesh,Insured,Migraine,2026-09-27
+BATCH-20260927-002,PAT-0025750,Ekani,Cherian,Female,1939-06-11,B+,Mira-Bhayandar,Rajasthan,Insured,Asthma,2026-09-27
+BATCH-20260927-002,PAT-0025751,Nimrat,Sinha,Male,1937-08-28,B-,Kishanganj,Madhya Pradesh,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025752,Logan,Ratta,Male,2019-11-05,A-,Rampur,Rajasthan,Self Pay,,2026-09-27
+BATCH-20260927-002,PAT-0025753,Advika,Konda,Male,1943-08-12,AB-,Chennai,Madhya Pradesh,Self Pay,,2026-09-27
+BATCH-20260927-002,PAT-0025754,Triya,Vala,Female,1986-05-22,AB-,Nadiad,Uttarakhand,Insured,Migraine,2026-09-27
+BATCH-20260927-002,PAT-0025755,Girindra,Bal,Female,1959-06-14,A+,Khora ,Delhi,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025756,Pratyush,Kant,Male,1969-03-09,A-,Pallavaram,Haryana,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025757,Tanmayi,Ram,Female,1948-12-04,AB-,Eluru,Madhya Pradesh,Self Pay,,2026-09-27
+BATCH-20260927-002,PAT-0025758,Jackson,Deshmukh,Male,1984-03-05,O+,Karimnagar,Punjab,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025759,Oviya,Pal,Male,1998-04-01,AB-,Hapur,Rajasthan,Self Pay,,2026-09-27
+BATCH-20260927-002,PAT-0025760,Jhalak,Arora,Female,2022-03-01,AB+,Ujjain,Uttarakhand,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025761,Pahal,Dave,Male,1965-06-30,AB+,Mahbubnagar,Rajasthan,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025762,Damini,Dayal,Male,2009-02-26,AB-,Udupi,Rajasthan,Self Pay,,2026-09-27
+BATCH-20260927-002,PAT-0025763,Neel,Radhakrishnan,Female,1970-05-04,A-,Yamunanagar,Uttar Pradesh,Insured,Type 2 Diabetes,2026-09-27
+BATCH-20260927-002,PAT-0025764,Ryan,Seshadri,Female,1946-08-31,O+,Vijayawada,Haryana,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025765,Isaac,Garde,Male,2003-12-23,B+,Anand,Delhi,Self Pay,,2026-09-27
+BATCH-20260927-002,PAT-0025766,Tamanna,Merchant,Male,1960-09-15,A+,Bhilwara,Delhi,Insured,Coronary Artery Disease,2026-09-27
+BATCH-20260927-002,PAT-0025767,Rushil,Borde,Female,1996-04-06,B+,Agra,Madhya Pradesh,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025768,Osha,Ramaswamy,Male,1999-04-11,AB+,Khora ,Uttarakhand,Self Pay,Coronary Artery Disease,2026-09-27
+BATCH-20260927-002,PAT-0025769,Chaaya,Talwar,Male,1971-07-03,B+,Jammu,Delhi,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025770,Nidra,Thaman,Female,1954-10-03,AB+,Hazaribagh,Madhya Pradesh,Insured,Chronic Kidney Disease,2026-09-27
+BATCH-20260927-002,PAT-0025771,Ekapad,Kannan,Male,2012-06-23,AB+,Tadipatri,Delhi,Self Pay,,2026-09-27
+BATCH-20260927-002,PAT-0025772,Chanakya,Borde,Female,2015-01-24,AB-,Narasaraopet,Delhi,Insured,Coronary Artery Disease,2026-09-27
+BATCH-20260927-002,PAT-0025773,Vyanjana,Choudhary,Female,1974-03-31,B-,Junagadh,Rajasthan,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025774,Harsh,Prasad,Male,1997-11-12,B-,Haridwar,Madhya Pradesh,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025775,Ansh,Menon,Female,1973-03-30,O-,Jamalpur,Uttar Pradesh,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025776,Teerth,Sani,Male,1971-07-03,AB-,Patna,Punjab,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025777,Rachita,Solanki,Female,1933-08-08,AB-,Sonipat,Uttarakhand,Insured,Hypertension,2026-09-27
+BATCH-20260927-002,PAT-0025778,Vincent,Sami,Female,1988-11-06,A-,Begusarai,Rajasthan,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025779,Triya,Goswami,Female,2023-01-07,O-,Bhind,Haryana,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025780,Ladli,Mand,Female,1931-10-05,O+,Suryapet,Uttarakhand,Insured,Chronic Kidney Disease,2026-09-27
+BATCH-20260927-002,PAT-0025781,Bishakha,Bhasin,Male,2012-11-02,A+,Bhubaneswar,Rajasthan,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025782,Faras,Jayaraman,Female,1989-04-07,A+,Bidhannagar,Madhya Pradesh,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025783,Xalak,Sagar,Female,1960-09-22,AB-,Tiruchirappalli,Punjab,Insured,Asthma,2026-09-27
+BATCH-20260927-002,PAT-0025784,Amruta,Tak,Male,1964-05-01,A+,Hyderabad,Uttar Pradesh,Insured,,2026-09-27
+BATCH-20260927-002,PAT-0025785,Girindra,Bir,Female,1931-10-27,A+,Siwan,Haryana,Insured,Asthma,2026-09-27

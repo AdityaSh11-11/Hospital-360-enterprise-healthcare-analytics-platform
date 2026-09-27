@@ -1,0 +1,41 @@
+section,item_type,subject,detail
+Executive,KPI,Total Patients,"25,673"
+Executive,KPI,Total Admissions,"52,697"
+Executive,KPI,Average Length of Stay,4.74 days
+Executive,KPI,Readmission Rate,19.86%
+Finance,KPI,Net Revenue,"4,239,684,192.73"
+Finance,KPI,Collected Amount,"1,815,152,049.30"
+Finance,KPI,Outstanding Amount,"300,050,226.81"
+Finance,KPI,Collection Efficiency,42.81%
+Finance,KPI,Outstanding Rate,7.08%
+Claims,KPI,Total Claims,"37,658"
+Claims,KPI,Claim Rejection Rate,9.16%
+Claims,KPI,Rejected Claim Value,"281,972,561.72"
+Claims,KPI,Rejected Value Rate,13.27%
+Finance,Commentary,Finance,"Hospital net revenue is 4,239,684,192.73; recorded collections are 1,815,152,049.30, with collection efficiency of 42.81%."
+Receivables,Commentary,Receivables,"Recorded outstanding balance is 300,050,226.81, equal to 7.08% of net revenue."
+Claims,Commentary,Claims,"Claim rejection rate is 9.16% by claim count, while rejected claim value is 281,972,561.72."
+Monthly Finance,Commentary,Monthly Finance,Latest billing-month net revenue changed -38.15% versus the previous billing month.
+Department,Commentary,Department,"Dermatology has the highest department net revenue at 436,005,931.91."
+Department Receivables,Commentary,Department Receivables,"Cardiology has the largest department outstanding balance at 31,561,059.46."
+Insurer,Commentary,Insurer,"LifeCare Insurance has the largest rejected claim value at 58,645,985.06."
+Receivable Exposure,Commentary,Receivable Exposure,The 50K+ band contains 41.96% of recorded outstanding value.
+Claims,Management Review,Insurer: LifeCare Insurance,Rejected Value Rate = 13.69; Rejected claim value rate is above the insurer aggregate.
+Claims,Management Review,Insurer: MediShield Assurance,Rejected Value Rate = 13.48; Rejected claim value rate is above the insurer aggregate.
+Finance,Management Review,Department: Cardiology,Collection Efficiency = 42.66; Collection efficiency is below the hospital aggregate.
+Finance,Management Review,Department: Cardiology,Outstanding Rate = 7.43; Outstanding rate is above the hospital aggregate.
+Finance,Management Review,Department: ENT,Outstanding Rate = 7.34; Outstanding rate is above the hospital aggregate.
+Finance,Management Review,Department: General Medicine,Collection Efficiency = 41.05; Collection efficiency is below the hospital aggregate.
+Finance,Management Review,Department: General Medicine,Outstanding Rate = 7.35; Outstanding rate is above the hospital aggregate.
+Finance,Management Review,Department: Gynecology,Outstanding Rate = 7.18; Outstanding rate is above the hospital aggregate.
+Finance,Management Review,Department: Neurology,Outstanding Rate = 7.13; Outstanding rate is above the hospital aggregate.
+Finance,Management Review,Department: Oncology,Collection Efficiency = 42.48; Collection efficiency is below the hospital aggregate.
+Finance,Management Review,Department: Orthopedics,Collection Efficiency = 42.32; Collection efficiency is below the hospital aggregate.
+Finance,Management Review,Department: Pediatrics,Outstanding Rate = 7.24; Outstanding rate is above the hospital aggregate.
+Operations,Management Review,Department: Cardiology,Readmission Rate = 20.54; Readmission rate is above the hospital aggregate.
+Operations,Management Review,Department: Dermatology,Readmission Rate = 20.79; Readmission rate is above the hospital aggregate.
+Operations,Management Review,Department: ENT,Readmission Rate = 20.21; Readmission rate is above the hospital aggregate.
+Operations,Management Review,Department: General Medicine,Readmission Rate = 19.98; Readmission rate is above the hospital aggregate.
+Operations,Management Review,Department: Orthopedics,Readmission Rate = 20.06; Readmission rate is above the hospital aggregate.
+Operations,Management Review,Department: Pediatrics,Readmission Rate = 20.42; Readmission rate is above the hospital aggregate.
+Receivables,Management Review,Exposure Band: 50K+,Outstanding Share = 41.96; This exposure band contains the largest recorded outstanding value.

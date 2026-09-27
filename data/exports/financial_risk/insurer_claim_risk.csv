@@ -1,0 +1,6 @@
+insurer_key,insurer_id,insurer_name,total_claims,claim_amount,approved_amount,rejected_amount,rejected_claims,pending_claims,partially_approved_claims,high_risk_claims,average_claim_risk_score,average_processing_days,claim_rejection_rate_pct,rejected_value_rate_pct,high_risk_claim_rate_pct,rejected_value_share_pct,rejected_value_rank,claim_risk_rank
+5,INS005,LifeCare Insurance,7357,414994126.62,326410227.75,56462173.54,701,583,1076,600,9.41,18.79,9.53,13.61,8.16,20.64,1,1
+2,INS002,MediShield Assurance,7431,415633143.72,323863895.63,55812628.51,709,640,1097,603,9.49,18.95,9.54,13.43,8.11,20.4,2,2
+1,INS001,HealthSecure Insurance,7289,414771800.05,327651656.51,54147298.83,639,561,1123,579,9.32,18.92,8.77,13.05,7.94,19.8,4,3
+4,INS004,National Health Plan,7288,406615122.24,319472532.37,52762911.04,650,576,1045,549,9.03,18.71,8.92,12.98,7.53,19.29,5,4
+3,INS003,CarePlus Health,7285,412526688.39,325527135.04,54345298.21,635,597,1078,532,9.13,18.97,8.72,13.17,7.3,19.87,3,5

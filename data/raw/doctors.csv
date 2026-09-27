@@ -1,0 +1,151 @@
+doctor_id,doctor_name,gender,specialization,department_id,qualification,experience_years,consultation_fee,joining_date,employment_status
+DOC-00001,Dr. Viraj Subramanian,Male,Cardiology,DEP002,"MBBS, MD",2,1200,2021-09-10,Active
+DOC-00002,Dr. Alexander Mitter,Male,ENT,DEP009,"MBBS, MS",6,1800,2017-12-09,Active
+DOC-00003,Dr. Krish Jhaveri,Male,Clinical Dermatology,DEP010,"MBBS, MS",2,2500,2022-08-30,Active
+DOC-00004,Dr. Yauvani Devan,Female,Neonatology,DEP005,"MBBS, DNB",1,800,2021-09-10,Active
+DOC-00005,Dr. Veer Merchant,Male,General Medicine,DEP006,"MBBS, DNB",7,700,2014-01-02,Active
+DOC-00006,Dr. Arin Tailor,Male,Trauma Medicine,DEP001,"MBBS, MD",30,2500,2024-08-02,Active
+DOC-00007,Dr. Lajita Bora,Female,Dermatology,DEP010,"MBBS, MS",24,1000,2021-01-09,Active
+DOC-00008,Dr. Qadim Suresh,Male,Interventional Cardiology,DEP002,"MBBS, DNB",15,700,2021-06-27,Active
+DOC-00009,Dr. Vrinda Kale,Female,Internal Medicine,DEP006,"MBBS, MS, MCh",14,1200,2026-07-06,Active
+DOC-00010,Dr. Laban Kala,Male,Otolaryngology,DEP009,"MBBS, MS, MCh",16,800,2022-05-15,Active
+DOC-00011,Dr. Hemal Muni,Female,General Medicine,DEP006,"MBBS, MD, DM",4,1000,2014-07-06,Active
+DOC-00012,Dr. Abha Mandal,Female,Sports Medicine,DEP004,"MBBS, MD, DM",21,1000,2018-03-30,Active
+DOC-00013,Dr. Charan Murty,Male,Neurophysiology,DEP003,"MBBS, MS, MCh",16,2500,2019-09-03,Active
+DOC-00014,Dr. Chaitanya Buch,Male,Orthopedics,DEP004,"MBBS, MD",9,2500,2024-07-12,Active
+DOC-00015,Dr. Wridesh Sheth,Male,Neurophysiology,DEP003,"MBBS, MS, MCh",28,700,2024-10-01,Active
+DOC-00016,Dr. Pushti Bhasin,Female,Otolaryngology,DEP009,"MBBS, DNB",1,700,2019-07-17,Active
+DOC-00017,Dr. Chaitanya Singh,Male,Clinical Oncology,DEP007,"MBBS, MS, MCh",11,2000,2022-05-18,Active
+DOC-00018,Dr. Dalaja Pant,Female,ENT,DEP009,"MBBS, MS",7,1200,2026-06-12,Active
+DOC-00019,Dr. Bishakha Patel,Female,Neurophysiology,DEP003,"MBBS, MD, DM",35,2500,2020-04-27,Active
+DOC-00020,Dr. Chatresh Viswanathan,Male,Internal Medicine,DEP006,"MBBS, MD",20,1000,2023-09-24,Active
+DOC-00021,Dr. Umang Vaidya,Male,Interventional Cardiology,DEP002,"MBBS, MS, MCh",35,800,2022-05-02,Active
+DOC-00022,Dr. Kritika Khurana,Female,ENT,DEP009,"MBBS, DNB",28,1000,2019-07-15,Active
+DOC-00023,Dr. Elijah Nori,Male,Internal Medicine,DEP006,"MBBS, MS",29,2500,2023-03-13,Active
+DOC-00024,Dr. Fariq Sangha,Male,Emergency Medicine,DEP001,"MBBS, MS",15,1000,2013-06-03,Active
+DOC-00025,Dr. Daksh Madan,Male,Trauma Medicine,DEP001,"MBBS, MD, DM",22,700,2019-09-01,Active
+DOC-00026,Dr. Jagrati Borde,Female,Neurophysiology,DEP003,"MBBS, MS",31,1000,2011-11-02,Active
+DOC-00027,Dr. David Deshmukh,Male,Medical Oncology,DEP007,"MBBS, MD",23,1800,2014-03-16,Active
+DOC-00028,Dr. Samesh Arora,Male,General Medicine,DEP006,"MBBS, MS",7,1000,2023-08-30,Active
+DOC-00029,Dr. Unnati Mall,Female,Pediatrics,DEP005,"MBBS, MD, DM",30,1000,2018-08-17,Active
+DOC-00030,Dr. Yamini Rau,Female,ENT,DEP009,"MBBS, MD",7,500,2016-04-09,Active
+DOC-00031,Dr. Nathan Iyengar,Male,Orthopedics,DEP004,"MBBS, MD, DM",11,1800,2022-07-04,Active
+DOC-00032,Dr. Anamika Johal,Female,Neurophysiology,DEP003,"MBBS, MD, DM",25,500,2025-10-22,Active
+DOC-00033,Dr. Azad Batra,Male,ENT,DEP009,"MBBS, MD",32,800,2022-01-24,Active
+DOC-00034,Dr. Teerth Dewan,Male,Otolaryngology,DEP009,"MBBS, MS, MCh",4,1500,2021-11-17,Active
+DOC-00035,Dr. Dayamai Nazareth,Female,ENT,DEP009,"MBBS, MS",11,500,2020-12-09,Active
+DOC-00036,Dr. Nachiket Pandit,Male,Cardiology,DEP002,"MBBS, MS, MCh",16,1800,2016-10-31,Active
+DOC-00037,Dr. Priya Malhotra,Female,Clinical Dermatology,DEP010,"MBBS, DNB",6,1800,2018-04-26,Active
+DOC-00038,Dr. Charan Golla,Male,General Medicine,DEP006,"MBBS, MD, DM",16,1200,2012-08-20,Active
+DOC-00039,Dr. Jalsa Choudhry,Female,Cardiology,DEP002,"MBBS, MD",1,2000,2019-12-19,Active
+DOC-00040,Dr. Triya Sem,Female,ENT,DEP009,"MBBS, MS",17,800,2024-02-18,Active
+DOC-00041,Dr. Inaya Raman,Female,Neurology,DEP003,"MBBS, MS, MCh",29,2500,2024-04-18,Active
+DOC-00042,Dr. Harrison Dora,Male,Cardiology,DEP002,"MBBS, MS, MCh",9,1200,2022-09-24,Active
+DOC-00043,Dr. Zehaan Guha,Male,Neonatology,DEP005,"MBBS, MS, MCh",14,1500,2014-03-22,Active
+DOC-00044,Dr. Chaitaly Reddy,Female,Emergency Medicine,DEP001,"MBBS, MD",6,1800,2024-05-31,Active
+DOC-00045,Dr. Bhavini Maharaj,Female,Neurophysiology,DEP003,"MBBS, MS, MCh",17,800,2016-08-24,Active
+DOC-00046,Dr. Umang Konda,Male,Interventional Cardiology,DEP002,"MBBS, MS, MCh",10,2500,2024-07-22,Active
+DOC-00047,Dr. Zaid Vohra,Male,Medical Oncology,DEP007,"MBBS, DNB",9,500,2025-12-07,Active
+DOC-00048,Dr. Amaira Seshadri,Female,Sports Medicine,DEP004,"MBBS, MS, MCh",7,1500,2016-03-13,Active
+DOC-00049,Dr. Anjali Patla,Female,Orthopedics,DEP004,"MBBS, MS",11,800,2021-08-22,Active
+DOC-00050,Dr. Nathaniel Shan,Male,Internal Medicine,DEP006,"MBBS, MD, DM",27,1000,2021-10-22,Active
+DOC-00051,Dr. Ekta Pai,Female,Obstetrics,DEP008,"MBBS, DNB",15,1000,2020-05-18,Active
+DOC-00052,Dr. Vaishnavi Balay,Female,Sports Medicine,DEP004,"MBBS, DNB",15,500,2011-11-22,Active
+DOC-00053,Dr. Gauri Rajan,Female,Interventional Cardiology,DEP002,"MBBS, MS, MCh",18,1500,2019-08-11,Active
+DOC-00054,Dr. Abhimanyu Buch,Male,Trauma Medicine,DEP001,"MBBS, MD",8,1200,2012-12-16,Active
+DOC-00055,Dr. Chaitanya Banerjee,Male,Medical Oncology,DEP007,"MBBS, MD, DM",23,1500,2015-04-06,Active
+DOC-00056,Dr. Amaira Pal,Female,Orthopedics,DEP004,"MBBS, MS, MCh",17,500,2016-08-19,Active
+DOC-00057,Dr. Bahadurjit Sane,Male,Otolaryngology,DEP009,"MBBS, MS, MCh",13,1500,2023-12-26,Active
+DOC-00058,Dr. Jackson Jhaveri,Male,Interventional Cardiology,DEP002,"MBBS, DNB",20,2500,2014-10-18,Active
+DOC-00059,Dr. Indrajit Cheema,Male,Neonatology,DEP005,"MBBS, MS",9,1000,2012-12-24,Active
+DOC-00060,Dr. Bhavya Kulkarni,Female,Neonatology,DEP005,"MBBS, DNB",26,2500,2019-07-22,Active
+DOC-00061,Dr. Michael Rastogi,Male,Dermatology,DEP010,"MBBS, MS, MCh",21,2000,2019-08-24,Active
+DOC-00062,Dr. Raghav Sampath,Male,Neurophysiology,DEP003,"MBBS, MD",6,1200,2014-10-08,Active
+DOC-00063,Dr. Vinaya Amble,Female,Orthopedics,DEP004,"MBBS, MD",20,1000,2023-03-10,Active
+DOC-00064,Dr. Amol Gera,Male,Gynecology,DEP008,"MBBS, MD, DM",5,2000,2018-05-04,Active
+DOC-00065,Dr. Nitara Choudhury,Female,Orthopedics,DEP004,"MBBS, MD, DM",10,500,2019-03-01,Active
+DOC-00066,Dr. Sanya Arya,Female,ENT,DEP009,"MBBS, MD, DM",30,500,2018-07-20,Active
+DOC-00067,Dr. Ijaya Zachariah,Female,Obstetrics,DEP008,"MBBS, MS, MCh",34,2500,2012-08-03,Active
+DOC-00068,Dr. Aarnav Barman,Male,ENT,DEP009,"MBBS, MD, DM",28,2500,2016-06-21,Active
+DOC-00069,Dr. David Khosla,Male,Orthopedics,DEP004,"MBBS, DNB",18,2500,2013-03-18,Active
+DOC-00070,Dr. Jason Mukherjee,Male,Pediatrics,DEP005,"MBBS, MS",16,1200,2016-01-21,Active
+DOC-00071,Dr. Om Bajaj,Male,Clinical Oncology,DEP007,"MBBS, DNB",10,1000,2014-01-30,Active
+DOC-00072,Dr. Inaya Warrior,Female,Clinical Oncology,DEP007,"MBBS, MS, MCh",4,1000,2013-05-27,Active
+DOC-00073,Dr. Warjas Singhal,Male,Trauma Medicine,DEP001,"MBBS, DNB",25,2000,2022-12-28,Active
+DOC-00074,Dr. Zilmil Aggarwal,Female,Medical Oncology,DEP007,"MBBS, MD, DM",35,2500,2016-11-06,Active
+DOC-00075,Dr. Theodore Kannan,Male,Clinical Oncology,DEP007,"MBBS, MS",32,500,2015-02-16,Active
+DOC-00076,Dr. Kamala Barad,Female,Neurology,DEP003,"MBBS, MD",35,500,2024-08-04,Active
+DOC-00077,Dr. Anirudh Chaudhuri,Male,Neurophysiology,DEP003,"MBBS, DNB",30,800,2013-08-14,Active
+DOC-00078,Dr. Yatan Balay,Male,General Medicine,DEP006,"MBBS, DNB",22,1800,2013-08-25,Active
+DOC-00079,Dr. Warinder Sarin,Male,Obstetrics,DEP008,"MBBS, MS",2,2500,2014-05-03,Active
+DOC-00080,Dr. Kabir Wadhwa,Male,Emergency Medicine,DEP001,"MBBS, MS, MCh",2,1000,2025-05-29,Active
+DOC-00081,Dr. Aashi Sangha,Female,Neurology,DEP003,"MBBS, MD, DM",31,700,2023-11-03,Active
+DOC-00082,Dr. Dhriti Devi,Female,Internal Medicine,DEP006,"MBBS, DNB",11,700,2020-06-08,Active
+DOC-00083,Dr. Krishna Palla,Male,Emergency Medicine,DEP001,"MBBS, MD",20,1800,2022-05-20,Active
+DOC-00084,Dr. Warhi Raja,Female,Orthopedics,DEP004,"MBBS, MS, MCh",7,1200,2016-06-10,Active
+DOC-00085,Dr. Mekhala Mangat,Female,Internal Medicine,DEP006,"MBBS, MS, MCh",35,1800,2012-09-25,Active
+DOC-00086,Dr. Rehaan Lanka,Male,Trauma Medicine,DEP001,"MBBS, MD, DM",27,2000,2015-05-20,Active
+DOC-00087,Dr. Zilmil Gade,Female,Clinical Oncology,DEP007,"MBBS, MS, MCh",12,2500,2015-11-03,Active
+DOC-00088,Dr. Girindra Varty,Male,Otolaryngology,DEP009,"MBBS, DNB",31,2000,2020-12-15,Active
+DOC-00089,Dr. Faras Gade,Male,Interventional Cardiology,DEP002,"MBBS, MS, MCh",18,2000,2014-09-20,Active
+DOC-00090,Dr. Lohit Upadhyay,Male,Clinical Oncology,DEP007,"MBBS, MS",22,500,2012-06-08,Active
+DOC-00091,Dr. Dev Sangha,Male,General Medicine,DEP006,"MBBS, MS, MCh",17,1500,2013-02-05,Active
+DOC-00092,Dr. Baghyawati Shroff,Female,Sports Medicine,DEP004,"MBBS, MS, MCh",6,1000,2024-08-10,Active
+DOC-00093,Dr. Zaitra Mahajan,Female,Gynecology,DEP008,"MBBS, DNB",32,2000,2018-10-30,Active
+DOC-00094,Dr. Hemang Thaman,Male,Sports Medicine,DEP004,"MBBS, MD, DM",20,1500,2026-07-16,On Leave
+DOC-00095,Dr. Hema Rana,Female,Otolaryngology,DEP009,"MBBS, DNB",22,1500,2019-02-06,Active
+DOC-00096,Dr. Balvan Bala,Male,Cardiology,DEP002,"MBBS, MS",13,1500,2016-11-02,Active
+DOC-00097,Dr. Nisha Dhillon,Female,Gynecology,DEP008,"MBBS, MS",18,2500,2016-03-29,Active
+DOC-00098,Dr. Chatresh Batta,Male,Internal Medicine,DEP006,"MBBS, DNB",12,1200,2023-03-12,Active
+DOC-00099,Dr. Eiravati Goda,Female,Trauma Medicine,DEP001,"MBBS, MD",19,800,2016-07-24,Active
+DOC-00100,Dr. Umang Basu,Male,Clinical Dermatology,DEP010,"MBBS, MS",19,2000,2017-12-08,Active
+DOC-00101,Dr. Janya Biswas,Female,Neonatology,DEP005,"MBBS, MD, DM",31,700,2012-07-02,Active
+DOC-00102,Dr. Yahvi Jain,Female,Trauma Medicine,DEP001,"MBBS, MD",10,800,2022-07-05,On Leave
+DOC-00103,Dr. Jasmit Krishnan,Female,Interventional Cardiology,DEP002,"MBBS, MD, DM",27,1000,2026-08-24,Active
+DOC-00104,Dr. Damini Venkatesh,Female,Pediatrics,DEP005,"MBBS, MS, MCh",28,1200,2011-11-19,Active
+DOC-00105,Dr. Ekapad Pal,Male,Cardiology,DEP002,"MBBS, MS",14,1000,2014-03-22,Active
+DOC-00106,Dr. Parth Muni,Male,Otolaryngology,DEP009,"MBBS, MS, MCh",5,800,2026-01-16,Active
+DOC-00107,Dr. Kavya Chaudhry,Female,Trauma Medicine,DEP001,"MBBS, MD",15,1200,2023-04-27,Active
+DOC-00108,Dr. Devansh Devan,Male,Pediatrics,DEP005,"MBBS, MS",13,1800,2012-09-24,Active
+DOC-00109,Dr. Jagat Divan,Male,Neurophysiology,DEP003,"MBBS, MS, MCh",5,500,2013-08-19,Active
+DOC-00110,Dr. David Narula,Male,Clinical Dermatology,DEP010,"MBBS, MD, DM",19,2000,2017-09-23,Active
+DOC-00111,Dr. David Tak,Male,ENT,DEP009,"MBBS, MD, DM",35,2000,2014-04-06,Active
+DOC-00112,Dr. Manan Saran,Male,Dermatology,DEP010,"MBBS, DNB",17,500,2021-08-01,Active
+DOC-00113,Dr. Nandini Anand,Female,Neurophysiology,DEP003,"MBBS, MS",31,2500,2025-05-16,On Leave
+DOC-00114,Dr. Om Mangat,Male,Clinical Oncology,DEP007,"MBBS, DNB",32,700,2025-08-22,Active
+DOC-00115,Dr. Ayushman Roy,Male,Interventional Cardiology,DEP002,"MBBS, DNB",11,1500,2020-11-17,Active
+DOC-00116,Dr. Michael Pandya,Male,Clinical Oncology,DEP007,"MBBS, DNB",3,2000,2025-05-05,Active
+DOC-00117,Dr. Vrishti Bedi,Female,Clinical Oncology,DEP007,"MBBS, MD, DM",33,500,2013-12-04,Active
+DOC-00118,Dr. Aadhya Prashad,Female,ENT,DEP009,"MBBS, MS",24,2000,2026-05-21,Active
+DOC-00119,Dr. Reva Sidhu,Female,Neurophysiology,DEP003,"MBBS, MD",19,2000,2022-10-30,Active
+DOC-00120,Dr. Alexander Gulati,Male,Dermatology,DEP010,"MBBS, MS, MCh",16,800,2021-03-27,Active
+DOC-00121,Dr. Falguni Kumar,Female,Orthopedics,DEP004,"MBBS, MD, DM",8,2000,2014-12-05,Active
+DOC-00122,Dr. Nakul Pathak,Male,Neonatology,DEP005,"MBBS, MD, DM",33,1200,2023-02-02,Active
+DOC-00123,Dr. Tanveer Pant,Male,ENT,DEP009,"MBBS, MD",10,1800,2019-06-16,Active
+DOC-00124,Dr. Krishna Modi,Male,Medical Oncology,DEP007,"MBBS, DNB",22,2500,2017-05-19,Active
+DOC-00125,Dr. Robert Murthy,Male,Clinical Dermatology,DEP010,"MBBS, DNB",32,800,2020-08-30,Active
+DOC-00126,Dr. Yachana Vyas,Female,ENT,DEP009,"MBBS, MS",25,2000,2015-10-27,Active
+DOC-00127,Dr. Fitan Ratti,Male,Sports Medicine,DEP004,"MBBS, MD, DM",27,500,2019-06-04,Active
+DOC-00128,Dr. Bahadurjit Bose,Male,Neurophysiology,DEP003,"MBBS, MD",32,500,2024-08-20,Active
+DOC-00129,Dr. Sneha Mahal,Female,Gynecology,DEP008,"MBBS, MS",7,2500,2026-04-04,Active
+DOC-00130,Dr. Ekantika Virk,Female,Neurophysiology,DEP003,"MBBS, DNB",5,2000,2020-11-14,Active
+DOC-00131,Dr. Yahvi Raja,Female,Clinical Oncology,DEP007,"MBBS, DNB",6,1500,2012-05-10,Active
+DOC-00132,Dr. Shravya Ramanathan,Female,Gynecology,DEP008,"MBBS, DNB",35,500,2023-05-23,On Leave
+DOC-00133,Dr. Vritti Cheema,Female,Cardiology,DEP002,"MBBS, MD, DM",28,700,2023-09-14,Active
+DOC-00134,Dr. Chatura Dey,Male,Pediatrics,DEP005,"MBBS, DNB",2,500,2025-07-08,Active
+DOC-00135,Dr. Charles Bajaj,Male,Medical Oncology,DEP007,"MBBS, MS",10,1000,2024-09-30,Active
+DOC-00136,Dr. Elijah Rege,Male,Dermatology,DEP010,"MBBS, MS",25,1000,2018-05-24,Active
+DOC-00137,Dr. Rajata Arora,Female,Neonatology,DEP005,"MBBS, DNB",30,1200,2020-09-03,Active
+DOC-00138,Dr. Urishilla Panchal,Female,Neurophysiology,DEP003,"MBBS, MD, DM",5,2000,2024-07-21,Active
+DOC-00139,Dr. Tamanna Chander,Female,Obstetrics,DEP008,"MBBS, MD",20,1000,2024-01-16,Active
+DOC-00140,Dr. Anya Bassi,Female,Clinical Dermatology,DEP010,"MBBS, MD",23,1200,2012-11-05,On Leave
+DOC-00141,Dr. Janya Chawla,Female,Medical Oncology,DEP007,"MBBS, MS, MCh",18,500,2019-01-29,Active
+DOC-00142,Dr. Yug Bali,Male,Pediatrics,DEP005,"MBBS, MS, MCh",15,1500,2022-11-03,Active
+DOC-00143,Dr. Ranbir Sarma,Male,Neurophysiology,DEP003,"MBBS, MD",7,500,2014-08-24,Active
+DOC-00144,Dr. Gabriel Sachdev,Male,Neurophysiology,DEP003,"MBBS, MS",6,1200,2023-09-21,Active
+DOC-00145,Dr. Girindra Sachar,Male,Otolaryngology,DEP009,"MBBS, MS",24,2500,2022-03-22,Active
+DOC-00146,Dr. Bhanumati Minhas,Female,Obstetrics,DEP008,"MBBS, MD",19,1500,2018-03-22,Active
+DOC-00147,Dr. Samarth Nayar,Male,Sports Medicine,DEP004,"MBBS, MD",26,2500,2016-12-28,Active
+DOC-00148,Dr. Yashodhara Sani,Female,Interventional Cardiology,DEP002,"MBBS, MS, MCh",30,1500,2015-11-12,Active
+DOC-00149,Dr. Viraj Nair,Male,General Medicine,DEP006,"MBBS, MS, MCh",7,1000,2024-02-17,Active
+DOC-00150,Dr. Kamala Bhargava,Female,Cardiology,DEP002,"MBBS, MS",30,1200,2024-02-04,Active

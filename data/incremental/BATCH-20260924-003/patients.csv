@@ -1,0 +1,42 @@
+batch_id,patient_id,first_name,last_name,gender,date_of_birth,blood_group,city,state,insurance_status,chronic_condition,registration_date
+BATCH-20260924-003,PAT-0025150,Azad,Nanda,Female,1990-04-03,A-,Agra,Delhi,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025151,Forum,Chawla,Female,1945-05-07,A-,Vasai-Virar,Madhya Pradesh,Self Pay,Asthma,2026-09-24
+BATCH-20260924-003,PAT-0025152,Balveer,Krishnamurthy,Male,1940-03-03,A+,Naihati,Punjab,Self Pay,,2026-09-24
+BATCH-20260924-003,PAT-0025153,Henry,Bahl,Male,1941-05-21,A+,Ghaziabad,Rajasthan,Self Pay,,2026-09-24
+BATCH-20260924-003,PAT-0025154,Yatin,Thaman,Female,1946-06-13,A+,Anand,Punjab,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025155,Abdul,Raghavan,Male,1962-06-23,B+,Darbhanga,Uttar Pradesh,Self Pay,,2026-09-24
+BATCH-20260924-003,PAT-0025156,Vansha,Keer,Female,1939-11-26,B-,Kamarhati,Madhya Pradesh,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025157,Jagdish,Rana,Female,1955-06-02,O-,Ambattur,Uttarakhand,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025158,Indira,Buch,Male,1953-08-31,A-,Ludhiana,Uttarakhand,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025159,Arjun,Kunda,Male,2002-08-15,A-,Motihari,Punjab,Insured,Asthma,2026-09-24
+BATCH-20260924-003,PAT-0025160,Pooja,Naidu,Male,1945-02-20,AB-,Naihati,Madhya Pradesh,Insured,Migraine,2026-09-24
+BATCH-20260924-003,PAT-0025161,Falan,Manne,Male,1948-10-24,B-,Bahraich,Uttarakhand,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025162,Faraj,Kannan,Female,1966-07-06,A-,Bettiah,Uttarakhand,Insured,Asthma,2026-09-24
+BATCH-20260924-003,PAT-0025163,Nathaniel,Balan,Female,2021-03-06,A-,Madhyamgram,Rajasthan,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025164,Indrajit,Narang,Male,1980-02-09,AB+,Durg,Delhi,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025165,Ishita,Wali,Male,1969-01-27,A-,Jalna,Punjab,Self Pay,,2026-09-24
+BATCH-20260924-003,PAT-0025166,Chandran,Saxena,Male,1999-08-01,AB+,Shimoga,Haryana,Self Pay,,2026-09-24
+BATCH-20260924-003,PAT-0025167,Xavier,Sarna,Male,1942-10-26,B-,Alappuzha,Uttarakhand,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025168,Gavin,Kale,Female,2014-10-18,A-,Bhilwara,Rajasthan,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025169,Sara,Sampath,Male,2014-09-22,B-,Loni,Punjab,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025170,Pooja,Chaudhari,Female,1961-09-02,O+,Kozhikode,Uttarakhand,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025171,Ridhi,Mannan,Male,1972-09-06,B+,Katni,Delhi,Self Pay,Hypertension,2026-09-24
+BATCH-20260924-003,PAT-0025172,Frederick,Koshy,Female,1963-11-22,O+,Motihari,Madhya Pradesh,Insured,Hypertension,2026-09-24
+BATCH-20260924-003,PAT-0025173,Yasti,Kashyap,Male,1975-06-30,AB-,Nagaon,Madhya Pradesh,Insured,Migraine,2026-09-24
+BATCH-20260924-003,PAT-0025174,Avni,Sethi,Female,1933-06-09,AB+,Jaunpur,Delhi,Self Pay,Coronary Artery Disease,2026-09-24
+BATCH-20260924-003,PAT-0025175,Kiaan,Singhal,Male,1949-01-06,O-,Phagwara,Uttarakhand,Insured,Type 2 Diabetes,2026-09-24
+BATCH-20260924-003,PAT-0025176,Jagdish,Radhakrishnan,Male,2010-03-06,O+,Udaipur,Madhya Pradesh,Self Pay,,2026-09-24
+BATCH-20260924-003,PAT-0025177,Ekanta,Dass,Male,1970-04-28,A-,Visakhapatnam,Haryana,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025178,Dalbir,De,Female,2008-02-05,O+,Eluru,Madhya Pradesh,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025179,Manan,Wali,Female,1933-01-22,B-,Mangalore,Punjab,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025180,Anvi,Kale,Female,2009-03-19,B-,Narasaraopet,Delhi,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025181,Ganga,Hari,Female,1983-10-18,O+,Gurgaon,Madhya Pradesh,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025182,Aarnav,Ravi,Male,1966-08-14,B+,Jhansi,Delhi,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025183,Idika,Pal,Female,1931-11-29,AB-,Haldia,Delhi,Insured,Coronary Artery Disease,2026-09-24
+BATCH-20260924-003,PAT-0025184,Agastya,Upadhyay,Female,1963-02-10,O+,Karimnagar,Rajasthan,Self Pay,,2026-09-24
+BATCH-20260924-003,PAT-0025185,Udarsh,Brar,Male,2009-10-14,B+,Asansol,Haryana,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025186,Anmol,Mane,Female,1975-12-31,B-,Jalgaon,Madhya Pradesh,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025187,Hemani,Dugar,Male,1998-10-01,B-,Darbhanga,Delhi,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025188,Vihaan,Misra,Female,2011-01-03,B-,Thrissur,Punjab,Insured,,2026-09-24
+BATCH-20260924-003,PAT-0025189,Fariq,Wali,Male,1956-04-23,B+,Muzaffarpur,Haryana,Insured,Type 2 Diabetes,2026-09-24
+BATCH-20260924-003,PAT-0025190,Hemang,Kale,Male,2000-07-09,B+,Bhatpara,Uttarakhand,Insured,,2026-09-24

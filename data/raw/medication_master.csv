@@ -1,0 +1,9 @@
+medication_id,medication_name,medication_category,manufacturer,unit_cost
+MED001,Paracetamol,Analgesic,Hospital 360 Pharma Demo,8.0
+MED002,Amoxicillin,Antibiotic,Hospital 360 Pharma Demo,18.0
+MED003,Metformin,Antidiabetic,Hospital 360 Pharma Demo,12.0
+MED004,Amlodipine,Antihypertensive,Hospital 360 Pharma Demo,10.0
+MED005,Atorvastatin,Lipid Lowering,Hospital 360 Pharma Demo,15.0
+MED006,Pantoprazole,Gastrointestinal,Hospital 360 Pharma Demo,9.0
+MED007,Azithromycin,Antibiotic,Hospital 360 Pharma Demo,25.0
+MED008,Aspirin,Antiplatelet,Hospital 360 Pharma Demo,5.0

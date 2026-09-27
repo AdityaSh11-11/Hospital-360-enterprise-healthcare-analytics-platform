@@ -1,0 +1,9 @@
+sequence,domain,commentary
+1,Finance,"Hospital net revenue is 4,239,684,192.73; recorded collections are 1,815,152,049.30, with collection efficiency of 42.81%."
+2,Receivables,"Recorded outstanding balance is 300,050,226.81, equal to 7.08% of net revenue."
+3,Claims,"Claim rejection rate is 9.16% by claim count, while rejected claim value is 281,972,561.72."
+4,Monthly Finance,Latest billing-month net revenue changed -38.15% versus the previous billing month.
+5,Department,"Dermatology has the highest department net revenue at 436,005,931.91."
+6,Department Receivables,"Cardiology has the largest department outstanding balance at 31,561,059.46."
+7,Insurer,"LifeCare Insurance has the largest rejected claim value at 58,645,985.06."
+8,Receivable Exposure,The 50K+ band contains 41.96% of recorded outstanding value.

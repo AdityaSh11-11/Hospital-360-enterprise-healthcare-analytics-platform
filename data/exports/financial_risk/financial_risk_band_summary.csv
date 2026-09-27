@@ -1,0 +1,4 @@
+financial_risk_band,bills,patients,average_financial_risk_score,minimum_financial_risk_score,maximum_financial_risk_score,net_revenue,collected_amount,outstanding_amount,bill_share_pct,outstanding_share_pct
+Low,36375,19084,3.93,0,20,2861124251.26,1442908658.56,0.0,70.88,0.0
+Medium,9619,7992,33.76,30,40,568108204.29,152280880.3,75809038.36,18.74,26.03
+High,5323,4765,58.96,50,95,688339751.93,166609048.07,215423701.41,10.37,73.97

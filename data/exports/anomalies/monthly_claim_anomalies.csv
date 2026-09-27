@@ -1,0 +1,9 @@
+anomaly_domain,entity_type,entity_id,metric,observed_value,median_value,mad_value,robust_z_score,direction,threshold,method
+Monthly Claims,Month,2026-10-01,claim_amount,82072011.59,45410875.185,1845843.3449999988,13.3966,High,3.5,Median/MAD Robust Z
+Monthly Claims,Month,2026-09-01,claim_amount,61544917.1,45410875.185,1845843.3449999988,5.8956,High,3.5,Median/MAD Robust Z
+Monthly Claims,Month,2023-01-01,claim_amount,30596286.64,45410875.185,1845843.3449999988,-5.4135,Low,3.5,Median/MAD Robust Z
+Monthly Claims,Month,2026-10-01,rejected_amount,11444922.1,5866089.835,551077.1749999998,6.8283,High,3.5,Median/MAD Robust Z
+Monthly Claims,Month,2026-09-01,rejected_amount,9140891.16,5866089.835,551077.1749999998,4.0082,High,3.5,Median/MAD Robust Z
+Monthly Claims,Month,2026-09-01,total_claims,1362.0,806.0,29.0,12.9318,High,3.5,Median/MAD Robust Z
+Monthly Claims,Month,2026-10-01,total_claims,1336.0,806.0,29.0,12.3271,High,3.5,Median/MAD Robust Z
+Monthly Claims,Month,2023-01-01,total_claims,568.0,806.0,29.0,-5.5356,Low,3.5,Median/MAD Robust Z

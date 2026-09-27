@@ -1,0 +1,6 @@
+anomaly_domain,entity_type,entity_id,metric,observed_value,median_value,mad_value,robust_z_score,direction,threshold,method
+Monthly Operations,Month,2026-09-01,admissions,3513.0,1123.0,31.0,52.0018,High,3.5,Median/MAD Robust Z
+Monthly Operations,Month,2026-09-01,average_length_of_stay,3.95,4.78,0.04999999999999982,-11.1967,Low,3.5,Median/MAD Robust Z
+Monthly Operations,Month,2026-09-01,emergency_admissions,1082.0,312.0,9.0,57.7072,High,3.5,Median/MAD Robust Z
+Monthly Operations,Month,2026-09-01,icu_admissions,620.0,176.0,11.0,27.2253,High,3.5,Median/MAD Robust Z
+Monthly Operations,Month,2026-09-01,readmissions,582.0,223.0,9.0,26.9051,High,3.5,Median/MAD Robust Z

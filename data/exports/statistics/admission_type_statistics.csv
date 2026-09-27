@@ -1,0 +1,4 @@
+admission_type,admissions,unique_patients,average_length_of_stay,median_length_of_stay,icu_admissions,readmissions,net_revenue,icu_rate_pct,readmission_rate_pct,revenue_per_admission
+Elective,26679,16013,4.54,4.0,3220,5264,2002794656.51,12.07,19.73,75070.08
+Emergency,14761,10821,5.21,5.0,3749,2925,1388237413.97,25.4,19.82,94047.65
+Referral,11257,8902,4.57,4.0,1376,2276,848652122.25,12.22,20.22,75388.84

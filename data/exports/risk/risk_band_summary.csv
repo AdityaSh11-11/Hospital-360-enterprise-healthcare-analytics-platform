@@ -1,0 +1,4 @@
+risk_band,admissions,patients,average_risk_score,minimum_risk_score,maximum_risk_score,admission_share_pct,average_length_of_stay,outstanding_amount
+Low,32946,16679,10.4,0,25,64.2,4.09,129463144.89
+Medium,16017,10681,38.2,30,55,31.21,5.51,120777034.35
+High,2354,2091,67.17,60,100,4.59,8.24,40992560.53

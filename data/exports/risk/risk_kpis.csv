@@ -1,0 +1,9 @@
+kpi,value,unit
+Admissions Scored,51317.0,count
+Patients Represented,21694.0,count
+Average Risk Score,21.68,score
+High Risk Admissions,2354.0,count
+Medium Risk Admissions,16017.0,count
+Low Risk Admissions,32946.0,count
+High Risk Admission Rate,4.59,percent
+Maximum Risk Score,100.0,score

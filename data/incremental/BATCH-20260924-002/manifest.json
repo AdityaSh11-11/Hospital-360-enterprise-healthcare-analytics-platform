@@ -1,0 +1,22 @@
+{
+    "batch_id": "BATCH-20260924-002",
+    "business_date": "2026-09-24",
+    "status": "GENERATED",
+    "duration_seconds": 5.17,
+    "record_counts": {
+        "patients.csv": 41,
+        "admissions.csv": 180,
+        "billing.csv": 180,
+        "claims.csv": 125,
+        "labs.csv": 512,
+        "medication_events.csv": 670
+    },
+    "id_ranges": {
+        "patient_start": 25109,
+        "admission_start": 50457,
+        "bill_start": 50457,
+        "claim_start": 36049,
+        "lab_start": 151172,
+        "medication_start": 176395
+    }
+}

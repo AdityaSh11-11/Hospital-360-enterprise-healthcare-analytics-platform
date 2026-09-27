@@ -1,0 +1,9 @@
+risk_factor,triggered_bills,total_bills,prevalence_pct
+Outstanding balance,14346,51317,27.96
+Payment not fully paid,14346,51317,27.96
+Net bill >= 100K,12748,51317,24.84
+Outstanding >= 10K,7465,51317,14.55
+Rejected claim,3334,51317,6.5
+Outstanding >= 25K,3276,51317,6.38
+Pending claim,2957,51317,5.76
+Outstanding >= 50K,1343,51317,2.62

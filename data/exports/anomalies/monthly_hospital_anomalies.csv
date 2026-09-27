@@ -1,0 +1,13 @@
+anomaly_domain,entity_type,entity_id,metric,observed_value,median_value,mad_value,robust_z_score,direction,threshold,method
+Monthly Hospital,Month,2026-09-01,admissions,3513.0,1122.5,32.0,50.3873,High,3.5,Median/MAD Robust Z
+Monthly Hospital,Month,2026-10-01,admissions,0.0,1122.5,32.0,-23.6602,Low,3.5,Median/MAD Robust Z
+Monthly Hospital,Month,2026-09-01,collected_amount,75559715.21,38478425.435,1364577.0950000025,18.329,High,3.5,Median/MAD Robust Z
+Monthly Hospital,Month,2026-10-01,collected_amount,47594682.62,38478425.435,1364577.0950000025,4.5061,High,3.5,Median/MAD Robust Z
+Monthly Hospital,Month,2023-01-01,collected_amount,28197046.93,38478425.435,1364577.0950000025,-5.082,Low,3.5,Median/MAD Robust Z
+Monthly Hospital,Month,2026-09-01,net_revenue,175215093.98,90425974.07,2579565.875,22.1705,High,3.5,Median/MAD Robust Z
+Monthly Hospital,Month,2026-10-01,net_revenue,108370056.29,90425974.07,2579565.875,4.692,High,3.5,Median/MAD Robust Z
+Monthly Hospital,Month,2023-01-01,net_revenue,71029992.25,90425974.07,2579565.875,-5.0716,Low,3.5,Median/MAD Robust Z
+Monthly Hospital,Month,2026-09-01,outstanding_amount,13688097.46,6357786.484999999,267116.28500000015,18.5099,High,3.5,Median/MAD Robust Z
+Monthly Hospital,Month,2026-10-01,outstanding_amount,8260664.34,6357786.484999999,267116.28500000015,4.805,High,3.5,Median/MAD Robust Z
+Monthly Hospital,Month,2023-02-01,outstanding_amount,7888393.77,6357786.484999999,267116.28500000015,3.865,High,3.5,Median/MAD Robust Z
+Monthly Hospital,Month,2023-01-01,outstanding_amount,4900464.11,6357786.484999999,267116.28500000015,-3.6799,Low,3.5,Median/MAD Robust Z

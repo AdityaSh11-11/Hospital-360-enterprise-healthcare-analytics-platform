@@ -1,0 +1,8 @@
+sequence,domain,insight
+1,Patient Risk,"2,091 admitted patients have reached the High analytical patient-risk band on at least one observed admission."
+2,Admission Risk,"2,354 admissions are classified in the High analytical admission-risk band."
+3,Financial Risk,"5,323 High financial-risk bills contain 215,423,701.41 of recorded outstanding value, representing 73.97% of total recorded outstanding exposure."
+4,Claims Risk,"2,863 claims are in the High analytical claim-risk band. This is an exposure-prioritization signal, not a rejection prediction."
+5,Department Exposure,"General Medicine has the largest recorded department outstanding exposure at 31,185,805.63."
+6,Insurer Exposure,"LifeCare Insurance has the largest observed rejected claim value at 56,462,173.54."
+7,Statistical Anomaly,"The strongest aggregate review signal is admissions for 2026-10-01 00:00:00 with a robust z-score of -23.66. Anomaly status indicates unusual behavior, not error or misconduct."

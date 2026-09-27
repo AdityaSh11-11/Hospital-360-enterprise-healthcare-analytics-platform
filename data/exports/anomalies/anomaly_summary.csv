@@ -1,0 +1,10 @@
+anomaly_scope,direction,anomaly_count,method
+Monthly Claims,High,6,Median/MAD Robust Z
+Monthly Claims,Low,2,Median/MAD Robust Z
+Monthly Hospital,High,8,Median/MAD Robust Z
+Monthly Hospital,Low,4,Median/MAD Robust Z
+Monthly Operations,High,4,Median/MAD Robust Z
+Monthly Operations,Low,1,Median/MAD Robust Z
+Bill - net_amount,High,4699,IQR 1.5x
+Bill - outstanding_amount,High,9325,IQR 1.5x
+Admission LOS,High,2535,IQR 1.5x

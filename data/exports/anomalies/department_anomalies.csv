@@ -1,0 +1,1 @@
+anomaly_domain,entity_type,entity_id,metric,observed_value,median_value,mad_value,robust_z_score,direction,threshold,method

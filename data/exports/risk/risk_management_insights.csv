@@ -1,0 +1,7 @@
+sequence,domain,insight
+1,Risk Population,"2,354 admissions fall in the High analytical risk band, representing 4.59% of scored admissions."
+2,Department,ENT has the highest observed High-risk admission rate at 5.11%.
+3,Doctor Workload,"Dr. Aarnav Barman has the highest observed High-risk admission rate among doctors with at least 25 admissions, at 7.92%."
+4,Risk Factors,"Chronic condition is the most frequently triggered modeled factor, appearing in 35.01% of admissions."
+5,Monthly Trend,The latest admission month has an average analytical risk score of 21.34 and a High-risk admission rate of 3.80%.
+6,Monthly Trend,The latest High-risk admission rate changed by -2.06 percentage points versus the prior admission month.

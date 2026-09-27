@@ -1,0 +1,10 @@
+diagnosis_name,admissions,unique_patients,average_length_of_stay,readmissions,net_revenue,readmission_rate_pct
+Anemia,12732,9997,4.72,2470,1029545987.53,19.4
+Pneumonia,9637,7939,4.73,1920,770503868.83,19.92
+Asthma,7011,6090,4.7,1453,555942363.4,20.72
+Bone Fracture,6756,5885,4.74,1334,548652218.08,19.75
+Migraine,5230,4673,4.72,1042,415751678.81,19.92
+Hypertension,3595,3333,4.67,739,283878880.87,20.56
+Gastroenteritis,2766,2598,4.76,538,220553657.39,19.45
+Coronary Artery Disease,2559,2422,4.79,537,209987760.59,20.98
+Type 2 Diabetes,1031,1001,4.71,215,82755791.98,20.85
