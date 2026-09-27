@@ -1,6 +1,6 @@
-# 🏥 Hospital 360
+# Hospital 360
 
-### Enterprise Healthcare Analytics & Intelligence Platform
+### Enterprise Healthcare Analytics Platform
 
 Hospital 360 is an end-to-end healthcare analytics platform designed to transform hospital operational, clinical, financial, claims, risk, and administrative data into structured decision intelligence.
 
