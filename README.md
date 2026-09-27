@@ -12,7 +12,7 @@ The platform is designed around a simple principle:
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Healthcare organizations generate data across patients, admissions, doctors, departments, billing, insurance claims, laboratory tests, medications, operational workflows, and administrative systems.
 
@@ -36,7 +36,7 @@ Hospital 360 brings these analytical areas together into a centralized platform 
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 Hospital 360 was developed to demonstrate how a modern healthcare analytics system can integrate the complete analytics lifecycle:
 
@@ -68,9 +68,9 @@ The goal is to create a structured analytical environment where hospital data ca
 
 ---
 
-# ✨ Core Capabilities
+# Core Capabilities
 
-## 🧭 Executive Command Center
+## Executive Command Center
 
 Provides senior management with a high-level view of hospital performance.
 
@@ -86,7 +86,7 @@ Key areas include:
 
 ---
 
-## 👥 Patient Analytics
+## Patient Analytics
 
 Provides analytical visibility into patient activity and hospital utilization.
 
@@ -103,7 +103,7 @@ Analysis may include:
 
 ---
 
-## 🏥 Operations Analytics
+## Operations Analytics
 
 Focuses on hospital operational performance.
 
@@ -120,7 +120,7 @@ Key areas include:
 
 ---
 
-## 💰 Financial Intelligence
+## Financial Intelligence
 
 Provides visibility into the hospital's financial performance.
 
@@ -137,7 +137,7 @@ Key areas include:
 
 ---
 
-## ⚠️ Risk Analytics
+## Risk Analytics
 
 Supports identification and monitoring of operational and patient-related risk indicators.
 
@@ -152,7 +152,7 @@ Analysis includes:
 
 ---
 
-## 🧾 Claims Intelligence
+## Claims Intelligence
 
 Provides analytical visibility into insurance and reimbursement workflows.
 
@@ -169,7 +169,7 @@ Key areas include:
 
 ---
 
-## 👨‍⚕️ Doctor Performance Analytics
+## Doctor Performance Analytics
 
 Provides structured performance analysis across doctors and specialties.
 
@@ -185,7 +185,7 @@ Possible indicators include:
 
 ---
 
-## 🤖 AI Analyst
+## AI Analyst
 
 Hospital 360 includes an AI-assisted analytical layer designed to convert natural-language business questions into controlled analytical workflows.
 
@@ -227,7 +227,7 @@ Natural-Language Explanation
 
 ---
 
-# 🔐 AI SQL Security
+# AI SQL Security
 
 A major part of the AI layer is controlled database access.
 
@@ -258,7 +258,7 @@ This helps separate AI-assisted analytics from unrestricted database access.
 
 ---
 
-# 🔎 Data Explorer
+# Data Explorer
 
 The Data Explorer provides a controlled interface for exploring analytical datasets without directly accessing the database.
 
@@ -273,7 +273,7 @@ It supports:
 
 ---
 
-# 📑 MIS Reporting
+# MIS Reporting
 
 Hospital 360 includes a Management Information System reporting workspace.
 
@@ -291,7 +291,7 @@ Typical reporting areas include:
 
 ---
 
-# 🛠 ETL Control Center
+# ETL Control Center
 
 Hospital 360 contains a dedicated ETL and data-control workspace.
 
@@ -313,7 +313,7 @@ This transforms the ETL layer from a hidden backend process into an observable o
 
 ---
 
-# 🛡 Data Quality Monitoring
+# Data Quality Monitoring
 
 Data quality is treated as part of the analytical architecture rather than an afterthought.
 
@@ -329,7 +329,7 @@ The platform supports monitoring of:
 
 ---
 
-# ⚙️ Administrative Workspace
+# Administrative Workspace
 
 The administrative layer acts as the centralized control area for platform-level operations.
 
@@ -360,7 +360,7 @@ This keeps operational controls separated from normal analytical dashboards.
 
 ---
 
-# 📊 BI & Reporting Integration
+# BI & Reporting Integration
 
 The project architecture can support external business-intelligence artifacts alongside the Streamlit analytical application.
 
@@ -377,7 +377,7 @@ The administrative workspace acts as the logical location for centralized report
 
 ---
 
-# 🏗 System Architecture
+# System Architecture
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
@@ -436,7 +436,7 @@ The administrative workspace acts as the logical location for centralized report
 
 ---
 
-# 🗄 Data Architecture
+# Data Architecture
 
 Hospital 360 uses a structured PostgreSQL analytical architecture.
 
@@ -494,7 +494,7 @@ audit_log
 
 ---
 
-# 🔄 ETL Architecture
+# ETL Architecture
 
 ```text
 Source Healthcare Data
@@ -520,7 +520,7 @@ ETL execution metadata is retained so pipeline performance and failures can be i
 
 ---
 
-# 🎨 Application Design System
+# Application Design System
 
 Hospital 360 uses a centralized visual design system to maintain consistency across analytical workspaces.
 
@@ -560,7 +560,7 @@ Navigation / Next Analysis
 
 ---
 
-# 🧰 Technology Stack
+# Technology Stack
 
 | Layer | Technology |
 |---|---|
@@ -568,7 +568,7 @@ Navigation / Next Analysis
 | Application UI | Streamlit |
 | Database | PostgreSQL |
 | Data Processing | Pandas |
-| Visualization | Plotly |
+| Visualization | Plotly & Power-BI |
 | Data Access | SQL / Python |
 | AI Analytics | Gemini API |
 | Configuration | python-dotenv |
@@ -577,61 +577,8 @@ Navigation / Next Analysis
 
 ---
 
-# 📂 Project Structure
 
-A simplified representation of the project:
-
-```text
-hospital-360/
-│
-├── app.py
-│
-├── requirements.txt
-├── .env.example
-├── .gitignore
-├── README.md
-│
-├── ai/
-│   ├── analyst.py
-│   ├── gemini_client.py
-│   └── sql_guard.py
-│
-├── analytics/
-│   └── data_loader.py
-│
-├── database/
-│
-├── etl/
-│
-├── pages/
-│   ├── 01_Executive_Command_Center.py
-│   ├── 02_Patient_Analytics.py
-│   ├── 03_Operations.py
-│   ├── 04_Finance.py
-│   ├── 05_Risk.py
-│   ├── 06_Claims.py
-│   ├── 07_Doctor_Performance_Dashboard.py
-│   ├── 08_AI_Analyst.py
-│   ├── 09_Data_Explorer.py
-│   ├── 10_MIS_Reports.py
-│   ├── 11_ETL_Control_Center.py
-│   └── 12_Admin.py
-│
-├── utils/
-│   └── app_helpers.py
-│
-├── data/
-│   ├── exports/
-│   └── incremental/
-│
-└── reports/
-```
-
-The exact project structure may evolve as the platform is extended.
-
----
-
-# 🚀 Running the Project Locally
+# Running the Project Locally
 
 ## 1. Clone the repository
 
@@ -721,7 +668,7 @@ Streamlit will display the local application URL in the terminal.
 
 ---
 
-# 🔑 Environment Variables
+# Environment Variables
 
 | Variable | Purpose |
 |---|---|
@@ -735,7 +682,7 @@ Sensitive environment variables must never be committed to source control.
 
 ---
 
-# 🔒 Security Considerations
+# Security Considerations
 
 Hospital 360 follows several application-level security principles:
 
@@ -753,43 +700,7 @@ This project is an analytics demonstration and should not be treated as a produc
 
 ---
 
-# 🧪 SQL Security Regression Testing
-
-The SQL guard can be tested against safe and unsafe statements.
-
-Example expected behavior:
-
-```text
-SAFE SELECT
-Safe   : True
-
-DELETE
-Safe   : False
-
-UPDATE
-Safe   : False
-
-DROP
-Safe   : False
-
-MULTI STATEMENT
-Safe   : False
-
-SYSTEM SCHEMA
-Safe   : False
-
-UNQUALIFIED TABLE
-Safe   : False
-
-SELECT INTO
-Safe   : False
-```
-
-This provides an additional safety layer between AI-generated analytical intent and database execution.
-
----
-
-# 📈 Analytical Philosophy
+# Analytical Philosophy
 
 Hospital 360 separates information into three levels.
 
@@ -831,7 +742,7 @@ This structure makes the platform useful to both analytical and non-technical us
 
 ---
 
-# 👥 Intended Users
+# Intended Users
 
 Hospital 360 is designed conceptually for:
 
@@ -847,7 +758,7 @@ Hospital 360 is designed conceptually for:
 
 ---
 
-# ⚠️ Data Disclaimer
+# Data Disclaimer
 
 This project is intended for:
 
@@ -864,7 +775,7 @@ It is **not intended for real clinical diagnosis, medical treatment decisions, o
 
 ---
 
-# 🛣 Future Enhancements
+# Future Enhancements
 
 Potential future improvements include:
 
@@ -886,7 +797,7 @@ Potential future improvements include:
 
 ---
 
-# 💡 What This Project Demonstrates
+# What This Project Demonstrates
 
 Hospital 360 demonstrates practical experience across multiple areas of modern analytics engineering:
 
@@ -924,35 +835,13 @@ It is designed as an integrated analytical system rather than a collection of di
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
-Add application screenshots here as the interface is finalized.
 
-Recommended screenshots:
-
-```text
-docs/screenshots/
-├── executive-command-center.png
-├── patient-analytics.png
-├── operations.png
-├── finance.png
-├── risk.png
-├── claims.png
-├── doctor-performance.png
-├── ai-analyst.png
-├── etl-control-center.png
-└── admin-center.png
-```
-
-Example:
-
-```markdown
-![Hospital 360 Executive Command Center](docs/screenshots/executive-command-center.png)
-```
 
 ---
 
-# 🤝 Contributions
+# Contributions
 
 This repository currently represents an independently developed healthcare analytics portfolio project.
 
@@ -960,15 +849,13 @@ Suggestions, improvements, and technical feedback are welcome through GitHub iss
 
 ---
 
-# 👨‍💻 Author
+# Author
 
-**Aditya**
-
-GitHub: `AdityaSh11-11`
+**Aditya Sharma**
 
 Project:
 
-**Hospital 360 — Enterprise Healthcare Analytics & Intelligence Platform**
+**Hospital 360 — Enterprise Healthcare Analytics Platform**
 
 ---
 
