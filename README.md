@@ -1,8 +1,8 @@
 # Hospital 360
 
-### Enterprise Healthcare Analytics Platform
+### Healthcare Analytics & Decision Intelligence Platform
 
-Hospital 360 is an end-to-end healthcare analytics platform designed to transform hospital operational, clinical, financial, claims, risk, and administrative data into structured decision intelligence.
+Hospital 360 is an end-to-end healthcare analytics platform designed to transform hospital operational, clinical, financial, claims, risk and administrative data into structured decision intelligence.
 
 The project combines **Python, Streamlit, PostgreSQL, ETL pipelines, analytical SQL, interactive visualizations, MIS reporting, data-quality monitoring, and AI-assisted analytics** within a unified healthcare intelligence application.
 
